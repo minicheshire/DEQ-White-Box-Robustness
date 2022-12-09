@@ -1,4 +1,4 @@
-White-Box Robustness Evaluation Protocol for DEQs
+# White-Box Robustness Evaluation Protocol for DEQs
 
 This repo contains the source code for our NeurIPS 2022 paper: [A closer Look at the Adversarial Robustness of Deep Equilibrium Models](https://openreview.net/forum?id=_WHs1ruFKTD). There are four directories in this repo. 
 
