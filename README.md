@@ -11,3 +11,16 @@ After obtaining a robust DEQ checkpoint, use the following two directories for t
 
 - deq-evaluation-with-simultaneous-adjoint.   Intermedate gradients approximated with the proposed simultaneous adjoint (Sec 4.1);
 - deq-evaluation-with-unrolled-intermediates. Intermedate gradients approximated by directly unrolling the intermediate states (Sec 4.2).
+
+Consider citing our work if you find this repository useful:
+```
+@inproceedings{
+    yang2022a,
+    title={A Closer Look at the Adversarial Robustness of Deep Equilibrium Models},
+    author={Zonghan Yang and Tianyu Pang and Yang Liu},
+    booktitle={Advances in Neural Information Processing Systems},
+    editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+    year={2022},
+    url={https://openreview.net/forum?id=_WHs1ruFKTD}
+}
+```
