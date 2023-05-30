@@ -1,4 +1,4 @@
-Use simultaneous adjoint for different white-box attacks
+Use unrolled intermediates for different white-box attacks
 
 Place the trained DEQ checkpoint at ./MDEQ-Vision/output/cifar10/cls_mdeq_LARGE_reg/{real/unroll}-checkpoint.pth.tar
 
