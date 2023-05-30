@@ -16,5 +16,5 @@ python tools/cls_valid_observe_train.py --cfg experiments/cifar/cls_mdeq_[A]_reg
     [C3] indicates the unrolling steps. [C3] can be 1, 5, 9 or others.
 
 [D] attack technique, together with specified defense. xxx as the robustness of the final state or the early state (can be found in the output). Specifically, xxx-es-0 refers to the ensemble defense
-    choices: pgd, pgd-es-0, apgd-ce, apgd-ce-es-0, apgd-t, apgd-t-es-0, fab-t, fab-t-es-0, square, sqaure-es-0
+    choices: pgd, pgd-es-0, apgd-ce, apgd-ce-es-0, apgd-t, apgd-t-es-0, fab-t, fab-t-es-0, square, square-es-0
 
