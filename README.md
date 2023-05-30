@@ -17,7 +17,7 @@ Consider citing our work if you find this repository useful:
 @inproceedings{
     yang2022a,
     title={A Closer Look at the Adversarial Robustness of Deep Equilibrium Models},
-    author={Zonghan Yang and Tianyu Pang and Yang Liu},
+    author={Yang, Zonghan and Pang, Tianyu and Liu, Yang},
     booktitle={Advances in Neural Information Processing Systems},
     editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
     year={2022},
